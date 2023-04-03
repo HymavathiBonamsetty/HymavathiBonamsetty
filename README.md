@@ -14,8 +14,8 @@
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
                                                                                                                 
                                                                                                                 
+<img align="right" src="https://user-images.githubusercontent.com/110234812/229512940-0e3cd4e6-b100-4fad-8560-8fada7884e5c.gif"/>
 
-![BleakHeartyGroundhog-size_restricted](https://user-images.githubusercontent.com/110234812/229512940-0e3cd4e6-b100-4fad-8560-8fada7884e5c.gif)
 
 
 
